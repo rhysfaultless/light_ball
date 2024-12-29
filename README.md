@@ -192,25 +192,28 @@ Next, I clicked the gear in the top right corner to configure:
 * LED Preferences
   * GPIO as pin D13
   * Length as the number of WS2812 LEDs in the string
+
+<p align="center"><img src="/readme_assets/wled_configuration_settings.png" width="300"/></p>
+<br/>
+<p align="center"><img src="/readme_assets/wled_configuration_led.png" width="300"/></p>
+<br/>
+
 * Sync
   * The primary ESP32 ball as the Leader
   * Other ESP32 light balls as the Followers
   * _Sync will have all the light balls follow the same light patterns_
+
+<p align="center"><img src="/readme_assets/wled_configuration_sync_leader.png" width="300"/></p>
+<br/>
+<p align="center"><img src="/readme_assets/wled_configuration_sync_follower.png" width="300"/></p>
+<br/>
+
 * Time & Macros
   * _Setting times when the lights change patterns._
   * _This is only required on the Leader._
   * _Followers should also have the OFF settings, incase they lose Wi-Fi connection._
   * _Preset 0 is set to black, to shut the lights off._
   * _Preset 1 is set the colour pattern I want to use._
-
-<p align="center"><img src="/readme_assets/wled_configuration_settings.png" width="300"/></p>
-<br/>
-<p align="center"><img src="/readme_assets/wled_configuration_led.png" width="300"/></p>
-<br/>
-<p align="center"><img src="/readme_assets/wled_configuration_sync_leader.png" width="300"/></p>
-<br/>
-<p align="center"><img src="/readme_assets/wled_configuration_sync_follower.png" width="300"/></p>
-<br/>
 <p align="center"><img src="/readme_assets/wled_configuration_time.png" width="300"/></p>
 <br/>
 <p align="center"><img src="/readme_assets/wled_configuration_time_controlled_presets.png" width="300"/></p>
