@@ -290,7 +290,7 @@ The network will have devices with dynamic IPs, as I intend to control the light
   * It was slow / difficult to make the balls' frames.
   * The controller's enclosure was large, and more visible than expected.
   * Size of the ball seemed acceptable.
-  * OTS controller, or a prmade PCBA would be preferable.
+  * OTS controller, or a premade PCBA would be preferable.
   * The ESP32 development board's Wi-Fi signal strength was low, and would sometimes drop off when an ICE car was near the tree.
   * The +12 VDC power cable running up the tree will complicate installation in tall trees.
 * Next steps / to consider:
