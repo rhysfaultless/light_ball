@@ -220,3 +220,16 @@ Next, I clicked the gear in the top right corner to configure:
 <br/>
 
 
+### Concept 2024-12, Electronics Installation
+
+The electronics were placed into the custom enclosure, and then sealed inside with cyanoacrylate glue.
+Take note of the ESP32's antenna location, as you will need to point it towards the access point _(described later, in the Network section)_.
+
+<p align="center"><img src="/readme_assets/enclosure_electronics.jpg" width="300"/></p>
+<br/>
+
+I then used cable ties to attach the enclosure to the ball's hook.
+I considered placing the enclosure inside the ball, but was concerned the ball's structure would act as a Faraday cage, blocking the Wi-Fi 2.4 GHz radio.
+Further testing or changing to a plastic ball structure could make this integration tidier, without the radio frequency concern.
+
+
