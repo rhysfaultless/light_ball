@@ -284,3 +284,18 @@ I also changed the router's dynamic DHCP address range, to make sure it does not
 The network will have devices with dynamic IPs, as I intend to control the lights using a phone over LAN.
 
 
+### Concept 2024-12, Thoughts About The Concept
+
+* Observations:
+  * It was slow / difficult to make the balls' frames.
+  * The controller's enclosure was large, and more visible than expected.
+  * Size of the ball seemed acceptable.
+  * OTS controller, or a prmade PCBA would be preferable.
+  * The ESP32 development board's Wi-Fi signal strength was low, and would sometimes drop off when an ICE car was near the tree.
+  * The +12 VDC power cable running up the tree will complicate installation in tall trees.
+* Next steps / to consider:
+  * Create a PCBA for the ESP32, DC-DC, and fusing.
+  * Test a solar powered option, which charges a battery.
+  * Could design the ball's frame for installation with a drone, if methods for retreival are considered.
+  * Change the ball's frame to plastic, to simplify build, and improve Wi-Fi.
+  * Look into ESP32 mesh network, or bridge repeater settings.
