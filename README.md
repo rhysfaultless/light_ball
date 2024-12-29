@@ -83,3 +83,11 @@ The goal is to design a light source that:
 2. Can be powered from this location. Any safe power method is acceptable, but it should consider installation difficulty, maintenance burden, and reliability.
 
 
+## Concept 2024-12
+
+<p align="center"><img src="/readme_assets/concept_sketch_construction.png" width="300"/></p>
+<br/>
+<p align="center"><img src="/readme_assets/ball_construction_far.jpg" width="300"/></p>
+<br/>
+<p align="center"><img src="/readme_assets/ball_construction_close.jpg" width="300"/></p>
+
