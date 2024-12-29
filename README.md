@@ -178,3 +178,12 @@ After installing the firmware, the WLED installer will ask you to enter Wi-Fi ne
 <p align="center"><img src="/readme_assets/wled_network_complete.png" width="300"/></p>
 <br/>
 
+You can click _Visit Device_, which will navigate to the ESP32's webpage.
+_Note: I had to first switch my computer to a new Wi-Fi SSID, since I am using a separate LAN network without internet access to simplify security._
+
+<p align="center"><img src="/readme_assets/wled_configuration_home.png" width="300"/></p>
+<br/>
+
+_The browser's URL is a dyanmic address that my router assigned._
+_I will change this to a Static IP in a later section of this readme._
+
