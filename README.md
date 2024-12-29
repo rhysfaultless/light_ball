@@ -168,3 +168,13 @@ In the pop-up window, I selected the relevant computer port.
 <br/>
 <p align="center"><img src="/readme_assets/wled_flashing_complete.png" width="300"/></p>
 <br/>
+
+After installing the firmware, the WLED installer will ask you to enter Wi-Fi network details.
+
+<p align="center"><img src="/readme_assets/wled_network_scan_in_progress.png" width="300"/></p>
+<br/>
+<p align="center"><img src="/readme_assets/wled_network_details.png" width="300"/></p>
+<br/>
+<p align="center"><img src="/readme_assets/wled_network_complete.png" width="300"/></p>
+<br/>
+
