@@ -63,3 +63,12 @@ It's a significant investment; especially if you plan to remove the lights after
 7. Pulleys installed into trees, which then allow the lights to be raised and lowered. This is similar to a flag pole.
 
 
+### Background, Design Requirements
+
+1. Colours and white available _(preferably user selectable after installation)_
+2. Lights visible at dusk.
+3. DC low voltage, or existing approved device.
+4. IP54 minimum, to allow for rain and snow melt.
+5. Approved FCC or Industry Canada components to not cause RF issues. This is only relevant if the devices include Wi-Fi, Bluetooth, Zigbee, or similar radio communication.
+
+
