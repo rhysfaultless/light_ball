@@ -242,6 +242,15 @@ I considered placing the enclosure inside the ball, but was concerned the ball's
 Further testing or changing to a plastic ball structure could make this integration tidier, without the radio frequency concern.
 
 
+### Concept 2024-12, Power Supply
+
+I placed a AC-DC converter in a waterproof box, fused the output, and then used terminal blocks to distribute power to the three light balls.
+The AC source has a GFCI outlet.
+
+<p align="center"><img src="/readme_assets/wiring_diagram_power_supply.png" width="600"/></p>
+<br/>
+
+
 ### Concept 2024-12, Network
 
 I configured the 2.4 GHz access point + router so the three ESP32 microcontrollers have static IPs.
