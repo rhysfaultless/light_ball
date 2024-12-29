@@ -72,3 +72,14 @@ It's a significant investment; especially if you plan to remove the lights after
 5. Approved FCC or Industry Canada components to not cause RF issues. This is only relevant if the devices include Wi-Fi, Bluetooth, Zigbee, or similar radio communication.
 
 
+### Background, Design Intent
+
+There is an unmet design space for Light Balls and Vertical Strands that can be installed in tall trees.
+It is uncommon to see Spiral or Wrapped string lights on tall trees due to the installation cost.
+People sometimes add Flood or Laser lights, but the light concentrates near the base of the tree.
+The goal is to design a light source that:
+
+1. Can be installed in a large tree using methods such as a ladder-and-pole, a boom-lift, or using a drone _(preferred option)_. 
+2. Can be powered from this location. Any safe power method is acceptable, but it should consider installation difficulty, maintenance burden, and reliability.
+
+
