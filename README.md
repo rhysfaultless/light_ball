@@ -93,38 +93,38 @@ The goal is to design a light source that:
 
 ### Concept 2024-12, Parts List
 
-| Subsection   | Description                                | Vendor        | Item                                                         |
-| :----------- | :----------------------------------------- | :------------ | :----------------------------------------------------------- |
-|              |                                            |               |                                                              |
-| Frame        | 14 AWG galvanized steel wire _(Ø2 mm)_     | Home Depot    | 1001028009                                                   |
-| Frame        | 24 AWG galvanized steel wire _(Ø0.6 mm)_   | Home Depot    | 1001027858                                                   |
-| Frame        | Cyanoacrylate                              | Loctite       | 401                                                          |
-|              |                                            |               |                                                              |
-| Electronics  | ESP32 microcontroller                      | Amazon        | B0D8T7Z1P5                                                   |
-| Electronics  | DC-DC buck converter                       | Amazon        | B07V4RT4H8                                                   |
-| Electronics  | Light Strands, WS2812B                     | Amazon        | B0CD1YBFPX                                                   |
-| Electronics  | Solder                                     |               |                                                              |
-| Electronics  | Flux for soldering                         |               |                                                              |
-| Electronics  | Hook-Up-Wire, 20 AWG, Red                  |               |                                                              |
-| Electronics  | Hook-Up-Wire, 20 AWG, Black                |               |                                                              |
-| Electronics  | Hook-Up-Wire, 20 AWG, Yellow               |               |                                                              |
-| Electronics  | Fuse 3 A                                   | Digikey       | F2583CT-ND                                                   |
-| Electronics  | M12 bulkhead connector, 5-position, female | Digikey       | A126843-ND                                                   |
-| Electonics   | Enclosure body                             | Custom        | [/enclosure_body.stl]("/enclosure_files/enclosure_body.stl") |
-| Electronics  | Enclosure lid                              | Custom        | [/enclosure_lid.stl]("/enclosure_files/enclosure_lid.stl")   |
-|              |                                            |               |                                                              |
-| Power Supply | Power supply, 110 VAC to 12 VDC, 5 A       |               | _recovered from e-waste_                                     | 
-| Power Supply | Fuse, ATO, 3 A                             | Digikey       | F4193-ND                                                     |
-| Power Supply | Fuse holder                                | Digikey       | FHAC0001ZXJA-ND                                              |
-| Power Supply | Terminal block, 6-position, Red            | Digikey       | 277-15998-ND                                                 |
-| Power Supply | Terminal block, 6-position, Black          | Digikey       | 277-15783-ND                                                 |
-| Power Supply | Terminal block, 6-position, Brown          | Digikey       | 277-18255-ND                                                 |
-| Power Supply | Cable, 2X 20 AWG                           |               |                                                              |
-| Power Supply | M12 inline connector, 5-position, male     | Digikey       | A133885-ND                                                   |
-| Power Supply | Waterproof box                             | Canadian Tire | EF-B02                                                       |
-| Power Supply | AC extension cable                         |               |                                                              |
-|              |                                            |               |                                                              |
-| Network      | 2.4 GHz access point / router              |               |                                                              |
+| Subsection   | Description                                | Vendor        | Item                                                       |
+| :----------- | :----------------------------------------- | :------------ | :--------------------------------------------------------- |
+|              |                                            |               |                                                            |
+| Frame        | 14 AWG galvanized steel wire _(Ø2 mm)_     | Home Depot    | 1001028009                                                 |
+| Frame        | 24 AWG galvanized steel wire _(Ø0.6 mm)_   | Home Depot    | 1001027858                                                 |
+| Frame        | Cyanoacrylate                              | Loctite       | 401                                                        |
+|              |                                            |               |                                                            |
+| Electronics  | ESP32 microcontroller                      | Amazon        | B0D8T7Z1P5                                                 |
+| Electronics  | DC-DC buck converter                       | Amazon        | B07V4RT4H8                                                 |
+| Electronics  | Light Strands, WS2812B                     | Amazon        | B0CD1YBFPX                                                 |
+| Electronics  | Solder                                     |               |                                                            |
+| Electronics  | Flux for soldering                         |               |                                                            |
+| Electronics  | Hook-Up-Wire, 20 AWG, Red                  |               |                                                            |
+| Electronics  | Hook-Up-Wire, 20 AWG, Black                |               |                                                            |
+| Electronics  | Hook-Up-Wire, 20 AWG, Yellow               |               |                                                            |
+| Electronics  | Fuse 3 A                                   | Digikey       | F2583CT-ND                                                 |
+| Electronics  | M12 bulkhead connector, 5-position, female | Digikey       | A126843-ND                                                 |
+| Electonics   | Enclosure body                             | Custom        | [enclosure_body.stl](./enclosure_files/enclosure_body.stl) |
+| Electronics  | Enclosure lid                              | Custom        | [enclosure_lid.stl](./enclosure_files/enclosure_lid.stl)   |
+|              |                                            |               |                                                            |
+| Power Supply | Power supply, 110 VAC to 12 VDC, 5 A       |               | _recovered from e-waste_                                   | 
+| Power Supply | Fuse, ATO, 3 A                             | Digikey       | F4193-ND                                                   |
+| Power Supply | Fuse holder                                | Digikey       | FHAC0001ZXJA-ND                                            |
+| Power Supply | Terminal block, 6-position, Red            | Digikey       | 277-15998-ND                                               |
+| Power Supply | Terminal block, 6-position, Black          | Digikey       | 277-15783-ND                                               |
+| Power Supply | Terminal block, 6-position, Brown          | Digikey       | 277-18255-ND                                               |
+| Power Supply | Cable, 2X 20 AWG                           |               |                                                            |
+| Power Supply | M12 inline connector, 5-position, male     | Digikey       | A133885-ND                                                 |
+| Power Supply | Waterproof box                             | Canadian Tire | EF-B02                                                     |
+| Power Supply | AC extension cable                         |               |                                                            |
+|              |                                            |               |                                                            |
+| Network      | 2.4 GHz access point / router              |               |                                                            |
 
 
 ### Concept 2024-12, Frame
