@@ -122,3 +122,17 @@ The goal is to design a light source that:
 | Power Supply | AC extension cable                         |               |                          |
 | Network      | 2.4 GHz access point / router              |               |                          |
 
+### Concept 2024-12, Frame
+
+The ball has 3 vertical metal hoops, and a spiral of metal wire around the hoops.
+These main structural pieces use galvanized 14 gauge steel wire _(Ø2 mm)_.
+The structural pieces are tied together using short sections of galvanized 24 gauge steel wire _(Ø0.6 mm)_.
+These tied joints are then coated with cyanoacrylate _(Super Glue)_.
+I then added a hook to the ball, using the same 14 gauge wire.
+There is a section of rubber heat-shrink-tube on the hook, to minimize abrasion to the tree's bark.
+
+_Notes:_ 
+* _The hook should use thicker material in future iterations, as it was prone to bending during installation in the tree._ 
+* _It took a long time to make these balls. Consider using a 3D printed ball, or developing tooling to tie to metal hoops together._
+
+
