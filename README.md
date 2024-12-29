@@ -211,7 +211,7 @@ Next, I clicked the gear in the top right corner to configure:
 * Time & Macros
   * _Setting times when the lights change patterns._
   * _This is only required on the Leader._
-  * _Followers should also have the OFF settings, incase they lose Wi-Fi connection._
+  * _Followers should also have the OFF settings, in case they lose Wi-Fi connection._
   * _Preset 0 is set to black, to shut the lights off._
   * _Preset 1 is set the colour pattern I want to use._
 <p align="center"><img src="/readme_assets/wled_configuration_time.png" width="300"/></p>
