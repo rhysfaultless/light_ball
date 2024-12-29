@@ -95,9 +95,11 @@ The goal is to design a light source that:
 
 | Subsection   | Description                                | Vendor        | Item                     |
 | :----------- | :----------------------------------------- | :------------ | :----------------------- |
+|              |                                            |               |                          |
 | Frame        | 14 AWG galvanized steel wire _(Ø2 mm)_     | Home Depot    | 1001028009               |
 | Frame        | 24 AWG galvanized steel wire _(Ø0.6 mm)_   | Home Depot    | 1001027858               |
 | Frame        | Cyanoacrylate                              | Loctite       | 401                      |
+|              |                                            |               |                          |
 | Electronics  | ESP32 microcontroller                      | Amazon        | B0D8T7Z1P5               |
 | Electronics  | DC-DC buck converter                       | Amazon        | B07V4RT4H8               |
 | Electronics  | Light Strands, WS2812B                     | Amazon        | B0CD1YBFPX               |
@@ -110,6 +112,7 @@ The goal is to design a light source that:
 | Electronics  | M12 bulkhead connector, 5-position, female | Digikey       | A126843-ND               |
 | Electonics   | Enclosure body                             | Custom        | todo                     |
 | Electronics  | Enclosure cap                              | Custom        | todo                     |
+|              |                                            |               |                          |
 | Power Supply | Power supply, 110 VAC to 12 VDC, 5 A       |               | _recovered from e-waste_ | 
 | Power Supply | Fuse, ATO, 3 A                             | Digikey       | F4193-ND                 |
 | Power Supply | Fuse holder                                | Digikey       | FHAC0001ZXJA-ND          |
@@ -120,6 +123,7 @@ The goal is to design a light source that:
 | Power Supply | M12 inline connector, 5-position, male     | Digikey       | A133885-ND               |
 | Power Supply | Waterproof box                             | Canadian Tire | EF-B02                   |
 | Power Supply | AC extension cable                         |               |                          |
+|              |                                            |               |                          |
 | Network      | 2.4 GHz access point / router              |               |                          |
 
 ### Concept 2024-12, Frame
