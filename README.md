@@ -136,6 +136,15 @@ These tied joints are then coated with cyanoacrylate _(Super Glue)_.
 I then added a hook to the ball, using the same 14 gauge wire.
 There is a section of rubber heat-shrink-tube on the hook, to minimize abrasion to the tree's bark.
 
+I made three sizes of spheres:
+
+* Ø400 mm _(Ø16 inch)_
+* Ø300 mm _(Ø12 inch)_
+* Ø230 mm _(Ø9 inch)_
+
+I used a steel frame to reduce weight and cros-sectional area for wind resistance.
+I referenced grapevine balls when designing the frame.
+
 _Notes:_ 
 * _The hook should use thicker material in future iterations, as it was prone to bending during installation in the tree._ 
 * _It took a long time to make these balls. Consider using a 3D printed ball, or developing tooling to tie to metal hoops together._
