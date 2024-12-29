@@ -43,3 +43,12 @@ It's a significant investment; especially if you plan to remove the lights after
 | Laser        | ![](/readme_assets/tree_lights_laser.png)    | Inexpensive light at the base of the tree. It makes many small dots on the tree, but also has a long overshoot onto surfaces behind the tree. It can get covered from snowfall. |
 
 
+### Background, Power Sources For Lights
+
+* AC mains power, as how most North American christmas lights are powered.
+* Low voltage DC cable run up the tree. 12 VDC custom outdoor wiring does not require inspection from Electrical Safety Authority in Ontario Canada. 
+* Wireless power transimission, such as Disney's: _[Wireless Power Transmission Safely Charges Devices Anywhere Within A Room](https://la.disneyresearch.com/innovations/wireless-power-room/)_.
+* Solar panels on the lights, with a battery.
+* PoE _Power Over Ethernet_. The passive option uses 24 VDC, the active options use 48 - 52 VDC.
+
+
