@@ -141,3 +141,18 @@ _Notes:_
 * _It took a long time to make these balls. Consider using a 3D printed ball, or developing tooling to tie to metal hoops together._
 
 
+### Concept 2024-12, Electronics Soldering
+
+<p align="center"><img src="/readme_assets/concept_sketch_controller.png" width="600"/></p>
+<br/>
+<p align="center"><img src="/readme_assets/wiring_diagram_2024-12.png" width="600"/></p>
+<br/>
+
+The wiring diagram above shows the electronics for the Light Ball.
+I soldered these components together.
+
+_Note that I did not include a level converter for the light's data line._
+_The ESP32 outputs 3.3 V on its D13 line, but the lights suggest an input signal of 5 V._
+_I did not include a level converter, since my lighting test results seemed acceptable, without unintended colours of flickering._
+
+
