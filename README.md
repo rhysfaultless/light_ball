@@ -233,3 +233,15 @@ I considered placing the enclosure inside the ball, but was concerned the ball's
 Further testing or changing to a plastic ball structure could make this integration tidier, without the radio frequency concern.
 
 
+### Concept 2024-12, Network
+
+I configured the 2.4 GHz access point + router so the three ESP32 microcontrollers have static IPs.
+This simplifies troubleshooting, as I can tell which controllers have network issues, without having to remember MAC addressess.
+
+<p align="center"><img src="/readme_assets/network_static_ip.png" width="600"/></p>
+<br/>
+
+I also changed the router's dynamic DHCP address range, to make sure it does not assign another device one of these static IPs.
+The network will have devices with dynamic IPs, as I intend to control the lights using a phone over LAN.
+
+
