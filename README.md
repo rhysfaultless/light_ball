@@ -52,3 +52,14 @@ It's a significant investment; especially if you plan to remove the lights after
 * PoE _Power Over Ethernet_. The passive option uses 24 VDC, the active options use 48 - 52 VDC.
 
 
+### Background, Installation Methods To Consider
+
+1. Ladder and pole.
+2. Pole with a hook.
+3. Pole with a catch release.
+4. Climbing trees.
+5. Drone with a catch release
+6. Lights installed onto a drone. The drone would remain in the tree.
+7. Pulleys installed into trees, which then allow the lights to be raised and lowered. This is similar to a flag pole.
+
+
