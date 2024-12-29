@@ -112,6 +112,9 @@ The goal is to design a light source that:
 | Electronics  | M12 bulkhead connector, 5-position, female | Digikey       | A126843-ND                                                 |
 | Electonics   | Enclosure body                             | Custom        | [enclosure_body.stl](./enclosure_files/enclosure_body.stl) |
 | Electronics  | Enclosure lid                              | Custom        | [enclosure_lid.stl](./enclosure_files/enclosure_lid.stl)   |
+| Electronics  | Cable ties                                 |               |                                                            | 
+| Electonics   | 3M VHB, double sided foam tape             |               |                                                            |
+| Electronics  | Heat shrink tubing                         |               |                                                            |
 |              |                                            |               |                                                            |
 | Power Supply | Power supply, 110 VAC to 12 VDC, 5 A       |               | _recovered from e-waste_                                   | 
 | Power Supply | Fuse, ATO, 3 A                             | Digikey       | F4193-ND                                                   |
@@ -126,6 +129,24 @@ The goal is to design a light source that:
 |              |                                            |               |                                                            |
 | Network      | 2.4 GHz access point / router              |               |                                                            |
 
+### Concept 2024-12, Tools
+
+* Frame
+  * Needle nose plyers
+  * Wire shears
+  * Measuring tape
+* Electronics
+  * Wire strippers
+  * Soldering iron
+  * USB-C cable and computer _(for firmware installation)_
+  * 3D printer
+  * Adjustable wrench _(for M12 body)_
+  * Heat gun _(for heat shrink tubing)_
+  * Multimeter _(for configuring the DC-DC buck converter's output voltage)_
+* Power Supply
+  * Wire strippers
+  * Small flat screwdriver _(for terminal block clamps, and M12 connector screws)_
+  * Adjustable wrench _(for M12 body)_
 
 ### Concept 2024-12, Frame
 
