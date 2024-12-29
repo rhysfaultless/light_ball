@@ -156,3 +156,15 @@ _The ESP32 outputs 3.3 V on its D13 line, but the lights suggest an input signal
 _I did not include a level converter, since my lighting test results seemed acceptable, without unintended colours of flickering._
 
 
+### Concept 2024-12, Electronics Firmware And Configuration
+
+With the electronics soldered, I then connected the ESP32 development board to my computer with a USB cable.
+I went to [install.wled.me](https://install.wled.me/), selected firmware version 0.14.4, and then clicked install.
+In the pop-up window, I selected the relevant computer port.
+
+<p align="center"><img src="/readme_assets/wled_firmware_installation.png" width="300"/></p>
+<br/>
+<p align="center"><img src="/readme_assets/wled_flashing_in_progress.png" width="300"/></p>
+<br/>
+<p align="center"><img src="/readme_assets/wled_flashing_complete.png" width="300"/></p>
+<br/>
